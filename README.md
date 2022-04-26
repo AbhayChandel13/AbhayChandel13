@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbhayChandel13 
-- 👀 I’m a Full Stack Developer 
-
+- 👀 I’m a Full Stack developer
 
 - 📫  reach me at chandelabhay4515@gmail.com
 
