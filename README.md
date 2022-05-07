@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhayChandel13.
+- 👋 Hi, I’m @AbhayChandel13
 -  
 - 👀 I’m a Full Stack Developer
 - 
