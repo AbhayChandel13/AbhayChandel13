@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi, I’m @AbhayChandel13.
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px" height="2px"> Hi, I’m @AbhayChandel13.
 
 - 👀 I’m a Full Stack Developer.
 
