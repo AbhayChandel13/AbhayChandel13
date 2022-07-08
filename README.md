@@ -2,7 +2,7 @@
 
 - 👀 I’m a Full Stack Developer.
 
-- 📫  reach me at:-> chandelabhay4515@gmail.com
+- 📫  reach me at:->chandelabhay4515@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhayChandel13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
