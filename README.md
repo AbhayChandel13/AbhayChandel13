@@ -1,6 +1,6 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Hi, I’m @AbhayChandel13.
 
-- 👀 I’m a Full Stack Developer.
+- 👀 I’m a Mern(MongoDb,Express,React & Node)  Stack Developer.
 
 - 📫  reach me at:->chandelabhay4515@gmail.com
 
