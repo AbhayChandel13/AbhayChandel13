@@ -1,6 +1,7 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Hi, I’m @AbhayChandel13.
 
-- 👀 I’m a Mern(MongoDb,Express,React & Node)  Stack Developer.
+- 👀 I had worked on the Mern stack (MongoDb,Express,React & Node).
+- Worked ons CMS web developing and Shopify theme development 
 
 - 📫  reach me at:->chandelabhay4515@gmail.com
 
